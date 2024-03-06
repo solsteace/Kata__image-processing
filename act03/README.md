@@ -1,5 +1,5 @@
 # Restriction
-Only Numpy could be used for image operations. Other library could be used for something else that definitely not related to the operation process
+Only Numpy could be used for image operations. Other library could only be used for something else that definitely is not related to the operation process
 
 # Problems
 ![Problem 1](1.png)
